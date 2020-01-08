@@ -1,0 +1,108 @@
+<view>
+<text>大乐透 第2020004期 2020-01-08</text>
+</view>
+<view>
+<text style="float:right">已有1321311位彩民兄弟按照推荐购买</text>
+</view>
+<text>\n</text>
+<text>\n</text>
+<view>无重复推荐号 1</view>
+<view class="flex-wrp-row">
+  <view class="redBall">
+    <text class="ballText"> 01</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 11</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 21</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 31</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 33</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 01</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 09</text>
+  </view>
+</view>
+<text>\n</text>
+<view>无重复推荐号 2</view>
+<view class="flex-wrp-row">
+  <view class="redBall">
+    <text class="ballText"> 02</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 03</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 09</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 15</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 17</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 03</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 05</text>
+  </view>
+</view>
+<text>\n</text>
+<view>无重复推荐号 3</view>
+<view class="flex-wrp-row">
+  <view class="redBall">
+    <text class="ballText"> 22</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 23</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 24</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 30</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 31</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 06</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 09</text>
+  </view>
+</view>
+<text>\n</text>
+<view>无重复推荐号 4</view>
+<view class="flex-wrp-row">
+  <view class="redBall">
+    <text class="ballText"> 10</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 18</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 19</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 21</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 31</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 10</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 12</text>
+  </view>
+</view>
+<text>\n</text>

@@ -1,0 +1,137 @@
+<view>往期回顾</view>
+<view>
+<text>大乐透 第2020003期 2020-01-06</text>
+</view>
+<view class="flex-wrp-row">
+  <view class="redBall">
+    <text class="ballText"> 23</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 25</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 26</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 30</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 34</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 03</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 07</text>
+  </view>
+</view>
+<view>累积奖池14.4亿</view>
+<view>一等奖0注 二等奖52注 </view>
+<text>\n</text>
+<view>大乐透 第2020002期 2020-01-04</view>
+<view class="flex-wrp-row">
+  <view class="redBall">
+    <text class="ballText"> 03</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 07</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 18</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 25</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 30</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 02</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 07</text>
+  </view>
+</view>
+<view>累积奖池13.6亿</view>
+<view>一等奖6注 二等奖152注 </view>
+<text>\n</text>
+<view>大乐透 第2020001期 2020-01-01</view>
+<view class="flex-wrp-row">
+  <view class="redBall">
+    <text class="ballText"> 17</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 25</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 26</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 32</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 34</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 04</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 07</text>
+  </view>
+</view>
+<view>累积奖池13.8亿</view>
+<view>一等奖2注 二等奖95注 </view>
+<text>\n</text>
+<view>大乐透 第1919150期 2019-12-30</view>
+<view class="flex-wrp-row">
+  <view class="redBall">
+    <text class="ballText"> 07</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 11</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 12</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 16</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 33</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 05</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 07</text>
+  </view>
+</view>
+<view>累积奖池13.4亿</view>
+<view>一等奖19注 二等奖115注 </view>
+<text>\n</text>
+<view>大乐透 第1919150期 2019-12-30</view>
+<view class="flex-wrp-row">
+  <view class="redBall">
+    <text class="ballText"> 01</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 02</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 07</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 33</text>
+  </view>
+  <view class="redBall">
+    <text class="ballText"> 35</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 06</text>
+  </view>
+  <view class="blueBall">
+    <text class="ballText"> 10</text>
+  </view>
+</view>
+<view>累积奖池14.2亿</view>
+<view>一等奖0注 二等奖85注 </view>
